@@ -22,3 +22,8 @@ Some examples of MXNet.
 2. MNIST:
 
    (1) train_mnist: Train FashionMNIST dataset
+
+3. CIFAR:
+   
+   (1) finetune_CIFAR10: Finetune a simple resnet model on CIFAR10
+ 
